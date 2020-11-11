@@ -1,0 +1,7 @@
+D:\Навчання\Томна ООП\0.6.ООП\Inheritance\2\bin\Debug\2.exe.config
+D:\Навчання\Томна ООП\0.6.ООП\Inheritance\2\bin\Debug\2.exe
+D:\Навчання\Томна ООП\0.6.ООП\Inheritance\2\bin\Debug\2.pdb
+D:\Навчання\Томна ООП\0.6.ООП\Inheritance\2\obj\Debug\2.csprojAssemblyReference.cache
+D:\Навчання\Томна ООП\0.6.ООП\Inheritance\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+D:\Навчання\Томна ООП\0.6.ООП\Inheritance\2\obj\Debug\2.exe
+D:\Навчання\Томна ООП\0.6.ООП\Inheritance\2\obj\Debug\2.pdb
